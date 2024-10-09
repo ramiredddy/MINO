@@ -1,1 +1,3 @@
 # MINO
+
+I developed MINO AI, a virtual assistant using Python, aimed at automating various tasks and providing smart user interactions. The project leveraged Python libraries such as SpeechRecognition, pyttsx3, and NLTK for natural language processing, speech recognition, and text-to-speech capabilities. MINO AI could perform tasks like web browsing, sending emails, retrieving weather updates, managing schedules, and answering general queries. By integrating APIs, it enhanced user experience with real-time information. The project also included error handling and a user-friendly interface, making it a versatile tool for daily productivity.
